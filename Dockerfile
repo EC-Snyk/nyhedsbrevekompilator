@@ -1,4 +1,4 @@
-FROM node:10.16-alpine
+FROM node:10.23-alpine
 
 MAINTAINER Daniel Kokott <dako@berlingskemedia.dk>
 
